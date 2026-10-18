@@ -2,10 +2,11 @@
 
 # 🛰️ GaianSpace CTF 2026: Writeups
 
-**Space-themed CTF · 22 challenges solved · 4 mission tracks**
+   **Space-themed CTF · Team RUY ranked 15th · 22 of the challenges solved by GEMS52 · 4 mission tracks**
 
 ![CTF](https://img.shields.io/badge/CTF-GaianSpace%202026-0b1020?style=for-the-badge&labelColor=0b1020&color=38bdf8)
 ![Team](https://img.shields.io/badge/Team-RUY-0b1020?style=for-the-badge&labelColor=0b1020&color=a78bfa)
+![Rank](https://img.shields.io/badge/Rank-15th-0b1020?style=for-the-badge&labelColor=0b1020&color=f472b6)
 ![Solved](https://img.shields.io/badge/Solved-22-0b1020?style=for-the-badge&labelColor=0b1020&color=34d399)
 ![Language](https://img.shields.io/badge/Writeups-English-0b1020?style=for-the-badge&labelColor=0b1020&color=fbbf24)
 
@@ -17,7 +18,7 @@ Steganography · Forensics · Network · Crypto · Hardware · Reverse / Pwn · 
 
 ## About
 
-Writeups for the challenges solved by **GEMS52** of team **RUY** (with **ftps3rver**) at **GaianSpace CTF 2026**, hosted on [ctf.gaian.space](https://ctf.gaian.space).
+Writeups for the challenges solved by **GEMS52** of team **RUY** (with **ftps3rver**) at **GaianSpace CTF 2026**, hosted on [ctf.gaian.space](https://ctf.gaian.space).  Team RUY ranked **15th**.
 
 The challenges form connected storylines: a phishing intrusion against the *Foundation One* CanSat program, a Mars rotorcraft called *DR-ONE*, and a set of asteroid prospecting and landing missions. Every writeup documents the path that actually led to the flag: the artifact, the key insight, and the decisive command or script. Dead ends are not reproduced.
 
