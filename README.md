@@ -21,8 +21,6 @@ Writeups for the challenges solved by **GEMS52** of team **RUY** (with **ftps3rv
 
 The challenges form connected storylines: a phishing intrusion against the *Foundation One* CanSat program, a Mars rotorcraft called *DR-ONE*, and a set of asteroid prospecting and landing missions. Every writeup documents the path that actually led to the flag: the artifact, the key insight, and the decisive command or script. Dead ends are not reproduced.
 
-> ⚠️ **Spoiler warning.** Every page contains the final flag. If you are still playing, stop here.
-
 ## Scoreboard at a glance
 
 Click a challenge name to open its writeup.
